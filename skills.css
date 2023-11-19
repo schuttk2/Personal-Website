@@ -1,0 +1,20 @@
+.skills-main-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.text-wrapper1{
+    float: left;
+    margin-left: 2em;
+    margin-top: 0;
+ }
+ 
+ .text-wrapper2{
+    float: left;
+    margin-left: 5em;
+    margin-top: 0;
+ }
+
+ 

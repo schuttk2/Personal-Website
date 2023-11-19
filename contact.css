@@ -1,0 +1,16 @@
+.contact-main-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.text-wrapper1{
+    margin-left: 2em;
+    margin-top: 0;
+ }
+ 
+ .text-wrapper2{
+    margin-left: 2em;
+    margin-top: 0;
+ }
